@@ -21,10 +21,10 @@ Example: ["at Red Fort", "in Mumbai local train", "a plate of samosas", "ins ide
 
 
 # Concepts that used in this project	
-lists	--->     To store groups of words like names, actions, and places
-random.choice()	---> To pick one item randomly from a list
-print () --->	To show the fake headline on screen
-input () --->	To ask the user if they want another headline
-while loop --->	To repeat the process until the user says "no"
-string concatenation or f-strings --->	To form a sentence using selected words
+1. lists	--->     To store groups of words like names, actions, and places
+2. random.choice()	---> To pick one item randomly from a list
+3. print () --->	To show the fake headline on screen
+4. input () --->	To ask the user if they want another headline
+5. while loop --->	To repeat the process until the user says "no"
+6. string concatenation or f-strings --->	To form a sentence using selected words
 
